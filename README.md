@@ -1,10 +1,10 @@
 <h3 align="center">
-  API created in NodeJS
+  SOLID API created in NodeJS
 </h3>
 
 ## 🥳 Overview
 
-API of a Barber Shop Appointment System, development at Rocketseat's GoStack Bootcamp using NodeJS and TypeORM
+API of a Barber Shop Appointment System, refactored using SOLID principles. Development at Rocketseat's GoStack Bootcamp using NodeJS and TypeORM
 
 <!--
 ## 🕵🏻‍♂️ Where find this tutorial video?
